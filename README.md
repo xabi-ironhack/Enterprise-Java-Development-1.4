@@ -20,5 +20,5 @@ Write a Java program to get the difference between the largest and smallest valu
 
 Write a Java program to find smallest and second smallest elements of a given array and print it in the console.
 
-Write a Java program who resolve this mathematical expression expression where x and y are two variables presetted in your code.      
+Write a Java program who resolve this mathematical expression expression where x and y are two variables presetted in your code.  ![Exercise3](./Documents/Ironhack/java_bootcamp_TA/labs_solutions/Enterprise-Java-Development-1.4)  
 
